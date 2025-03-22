@@ -8,11 +8,14 @@
 - []()
 - []()
 
-### 
+### 학습
 
-- []()
+
+- [hw]()
+  - [80_32204075_정성욱_hw3](https://colab.research.google.com/drive/12KkGmcubfws6jteaOKV6IhqKHh6ro9k7)
+  - [80_32204075_정성욱_hw5](https://colab.research.google.com/drive/150hxrJQh-fRhzUJR7qY0WPMJBjzl6g91)
   - []()
-  - []()
+  - 
 
 - []()
 - []()
@@ -20,7 +23,7 @@
 
 []()
 
-## NLP(LLM 포함) 학습
+### 
 []()
 
 
@@ -29,9 +32,10 @@
 - []()
 - []()
   
-- []()
-- []()
-- []()
+- [Developer.ipynb](https://colab.research.google.com/drive/1vVTxT_mfl0MdB1sl-ZK1erpoXW-PSTst)
+- [Subway_Project.ipynb](https://colab.research.google.com/drive/12KkGmcubfws6jteaOKV6IhqKHh6ro9k7)
+
+
 
 
 - [chatbot site](https://github.com/davJ-star/nextjs-ai-chatbot)
